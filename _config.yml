@@ -1,6 +1,6 @@
 name: MabMade
 favicon: null
-layout_spectrum: 0.8316509979777038
+layout_spectrum: 0.59266
 typography_spectrum: 0.7519301532302052
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.1136784718837589
+  brandStrength: 0.625
   lightness: 0.44736650795675814
-  saturation: 0.5894055878743529
+  saturation: 0.5
   rhythmicContrast: 0.25369230122305453
 purpose: []
